@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'NotenRechner' target in the 'NotenRechner' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
